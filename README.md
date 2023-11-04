@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full stack developer**
 
-- 👨‍💻 All of my projects are available at [https://ohkrahul.github.io/rahulkumar-resume.github.io/](https://ohkrahul.github.io/rahulkumar-resume.github.io/)
+- 👨‍💻 All of my projects are available at [https://ohkrahul.github.io/rahulkumar-resume.github.io/](https://ohkrahul.github.io/rahulkumar-portfolio/)
 
 - 💬 Ask me about **Fronted,Sql,C++**
 
