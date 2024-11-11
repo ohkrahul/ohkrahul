@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohkrahul&label=Profile%20views&color=0e75b6&style=flat" alt="ohkrahul" /> </p>
 
-- 🌱 I’m currently learning **Full stack developer**
+- 🌱 I’m a **Full stack developer**
 
 - 👨‍💻 All of my projects are available at [https://ohkrahul.github.io/rahulkumar-resume.github.io/](https://ohkrahul.github.io/rahulkumar-portfolio/)
 
