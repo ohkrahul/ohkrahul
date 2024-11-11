@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ohkrahul.github.io/rahulkumar-resume.github.io/](https://ohkrahul.github.io/rahulkumar-portfolio/)
 
-- 💬 Ask me about **Fronted,Sql,C++**
+- 💬 Ask me about **Tech things**
 
 - 📫 How to reach me **rahulsahu3612@gmail.com**
 
